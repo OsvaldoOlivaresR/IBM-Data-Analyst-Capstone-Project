@@ -1,3 +1,2 @@
-# Collecting-Data-Using-Web-Scraping
-Collecting Data Using Webscraping
-Part of the IBM Data Analysis Capstone Project Series
+# IBM Data Analyst Captone Project
+Contains all Hands-On labs required to be uploaded to Github
